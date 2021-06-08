@@ -6,7 +6,7 @@ Git es un sistema de control de versiones, distribuido y open source. Un control
 ## Instalación
 ### Para Mac y Linux: 
 ### Ver estos enlaces: 
-https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git </br>
+l</br>
 https://www.youtube.com/watch?v=PSULlxUk744 </br>
 https://www.youtube.com/watch?v=oV0spTF71AI 
 
